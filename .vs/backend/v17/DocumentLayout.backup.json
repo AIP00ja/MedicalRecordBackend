@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\models\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\models\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\models\\medicalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\models\\medicalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\migrations\\20250615180708_addmedicalfiletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20250615180708_addmedicalfiletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\migrations\\20250614170115_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20250614170115_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|c:\\users\\pooja gaud\\documents\\hfiles-assignment\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E8F5A35-2997-45A3-A8DE-D8EE175ED34F}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "backend.http",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\backend.http",
+              "RelativeDocumentMoniker": "backend\\backend.http",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\backend.http",
+              "RelativeToolTip": "backend\\backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-17T09:48:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "backend\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:06:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicalFile.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Models\\MedicalFile.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\MedicalFile.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Models\\MedicalFile.cs",
+              "RelativeToolTip": "backend\\Models\\MedicalFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:59:35.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignupRequest.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Models\\SignupRequest.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\SignupRequest.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Models\\SignupRequest.cs",
+              "RelativeToolTip": "backend\\Models\\SignupRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:52:35.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Models\\User.cs",
+              "RelativeToolTip": "backend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:45:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:49:33.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Migrations\\AppDbContextModelSnapshot.cs*",
+              "RelativeToolTip": "backend\\Migrations\\AppDbContextModelSnapshot.cs*",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:24:14.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250615180708_AddMedicalFileTable.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Migrations\\20250615180708_AddMedicalFileTable.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20250615180708_AddMedicalFileTable.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Migrations\\20250615180708_AddMedicalFileTable.cs",
+              "RelativeToolTip": "backend\\Migrations\\20250615180708_AddMedicalFileTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:07:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250614170115_Init.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Migrations\\20250614170115_Init.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20250614170115_Init.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Migrations\\20250614170115_Init.cs",
+              "RelativeToolTip": "backend\\Migrations\\20250614170115_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:01:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "backend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:47:21.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:48:33.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T17:04:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "backend.csproj",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T16:42:57.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\POOJA GAUD\\Documents\\hfiles-assignment\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T17:24:36.835Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
