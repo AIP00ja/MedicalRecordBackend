@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.suo
+*.dbmdl
+*.log
+*.pdb
+*.cache
+.vscode/
+.env
+wwwroot/uploads/
+wwwroot/profiles/
