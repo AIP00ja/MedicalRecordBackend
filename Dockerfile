@@ -1,25 +1,23 @@
-# Use the .NET 6.0 SDK for building
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+# Use .NET 8 runtime and SDK
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+WORKDIR /app
+EXPOSE 80
+
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy the whole repo
+# Copy everything
 COPY . .
 
-# Navigate into your project folder
+# Go to your project folder (you have it inside /backend)
 WORKDIR /src/backend
 
-# Restore dependencies
+# Restore and publish
 RUN dotnet restore
-
-# Publish the project
 RUN dotnet publish -c Release -o /app/publish
 
-# Use the ASP.NET runtime for hosting
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
+# Final image
+FROM base AS final
 WORKDIR /app
-
-# Copy published output from build stage
 COPY --from=build /app/publish .
-
-# Start the app
-ENTRYPOINT ["dotnet", "MedicalRecordBackend.dll"]
+ENTRYPOINT ["dotnet", "backend.dll"]
